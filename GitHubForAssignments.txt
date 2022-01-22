@@ -1,0 +1,5 @@
+I'm happy the I have taken the computer science course and feel very comfortable now using github!
+
+I plan on using the same steps I took in computer science to clone and push
+Clone: after forking the repository, I always used git clone in the terminal of my computer. I always found it so simple once I changed the directory of the folder I wanted my repository to be in.
+Push: I have completed thi task using sync in VSCode; however with very large data sets or changes I plan on using the drag file method onto the github website itself
